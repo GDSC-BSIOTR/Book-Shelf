@@ -62,3 +62,10 @@
  "Status": "Alive (age 47 years)",
  "Book Name": "Girl in Room 105",
  "Link": "https://www.amazon.in/dp/1542040469/ref=cm_sw_r_apan_glt_fabc_Q19J7MPXWGNYKEP4P1AX?_encoding=UTF8&psc=1",
+
+ "id": "10",
+ "Author": "Héctor García",
+ "Born": "1981",
+ "Status": "Alive (age 40 years)",
+ "Book Name": "Ikigai",
+ "Link": "https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X",
