@@ -86,11 +86,17 @@
 "Book Name": "You Can Win", 
 "Link": "https://oiipdf.com/you-can-win-shiv-khera",
  
- "id": "13",
-"Author": "joseph murphy",
-"Born": "20 May 1898",
+"id": "13",
+"author": "joseph murphy",
+"born": "20 May 1898",
 "Status": "Died December 16, 1981 ",
 "Book Name": "power of subconscious mind", 
 "Link": "https://www.amazon.in/s?k=power+of+your+subconscious+mind+joseph+murphy&hvadid=82944579067465&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_9gwpt32wg7_b",
 
-
+"id": "15",
+"Author": "vyasa rushi",
+"Born": "couldn't get hold of his birth certficate",
+"Status": "lived around 3000 BCE",
+"Book Name": "Bhagawat geeta", 
+"Link": "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISa7MSDFg9GJNT00tSQQANEgFoQ&q=geeta&rlz=1C1FHFK_enIN959IN959&oq=geeta&aqs=chrome.1.69i57j46i433i512l6j46i131i433i512j0i433i512l2.11716j0j7&sourceid=chrome&ie=UTF-8",
+ 
