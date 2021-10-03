@@ -93,4 +93,11 @@
 "Book Name": "power of subconscious mind", 
 "Link": "https://www.amazon.in/s?k=power+of+your+subconscious+mind+joseph+murphy&hvadid=82944579067465&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_9gwpt32wg7_b",
 
+"id": "14",
+"Author": "Sudha murthy",
+"Born": "19 August 1950",
+"Status": "Alive",
+"Book Name": "The Bird with Golden Wings: Stories of Wit and Magic", 
+"Link": "https://www.amazon.in/dp/8129142147/ref=cm_sw_r_cp_apan_glt_fabc_dl_42H8NCV673BP36FZM05X
+
 
