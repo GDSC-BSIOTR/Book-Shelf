@@ -93,4 +93,13 @@
 "Book Name": "power of subconscious mind", 
 "Link": "https://www.amazon.in/s?k=power+of+your+subconscious+mind+joseph+murphy&hvadid=82944579067465&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_9gwpt32wg7_b",
 
+"id": "14",
+"Author": "Chetan bhagat",
+"Born": "22 April 1974",
+"Status": " alive ",
+"Book Name": "one Indian girl", 
+"Link": "https://www.amazon.in/dp/0143334255/ref=cm_sw_r_cp_apan_glt_fabc_dl_F5WKZVP5NG6YAZBPKAE9
+
+
+
 
