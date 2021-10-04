@@ -93,4 +93,11 @@
 "Book Name": "Everyone Has a Story", 
 "Link": "https://oiipdf.com/everyone-has-a-story-novel",
 
+ "id": "14",
+"Author": "J.K.Rowling",
+"Born": "31 July 1965",
+"Status": " she has not yet died ",
+"Book Name": "Harry Potter", 
+"Link": "https://www.google.com/search?q=harry+potter+book+author+names+died+in+order&rlz=1C1FHFK_enIN959IN959&sxsrf=AOaemvL-kRLRTu_atQIV6cfJynwB5mByRw%3A1633181911584&ei=12BYYfOCI8jEz7sP2smksA0&oq=harry+potter+book+author+names+died+in+order&gs_lcp=Cgdnd3Mtd2l6EAEYADIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB46BAgjECc6BggAEBYQHjoFCCEQoAE6BwghEAoQoAFKBAhBGAFQ7KkCWIuSA2DGqgNoBXAAeACAAfsBiAHxGpIBBjAuMTIuNpgBAKABAcABAQ&sclient=gws-wiz"
+
 
