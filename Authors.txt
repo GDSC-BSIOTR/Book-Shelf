@@ -93,4 +93,10 @@
 "Book Name": "power of subconscious mind", 
 "Link": "https://www.amazon.in/s?k=power+of+your+subconscious+mind+joseph+murphy&hvadid=82944579067465&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_9gwpt32wg7_b",
 
+"id": "14",
+"Author": "Arun Shourie",
+"Born": "2 November 1941",
+"Status": "Alive",
+"Book Name": " A Secular Agenda", 
+"Link": "https://www.amazon.in/dp/8190019937/ref=cm_sw_r_apan_glt_fabc_252X7Y03W5KNQHPEXWFE",
 
