@@ -94,29 +94,36 @@
 "Book Name": "power of subconscious mind", 
 "Link": "https://www.amazon.in/s?k=power+of+your+subconscious+mind+joseph+murphy&hvadid=82944579067465&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_9gwpt32wg7_b",
 
-id": "14",
+
+"id": "14",
+"Author": "Sudha murthy",
+"Born": "19 August 1950",
+"Status": "Alive",
+"Book Name": "The Bird with Golden Wings: Stories of Wit and Magic", 
+"Link": "https://www.amazon.in/dp/8129142147/ref=cm_sw_r_cp_apan_glt_fabc_dl_42H8NCV673BP36FZM05X
+
+id": "15",
 "Author": "Shivaji Sawant",
 "Born": "31 August 1940 ",
 "Status": "Died  September 18 , 2002",
 "Book Name": "Chawa", 
 "Link": "https://www.mahagovjobs.in/2021/03/chava-kadambari-book-in-marathi-pdf.html",
 
-"id": "14",
+"id": "16",
 "Author": "Savi Sharma",
 "Born": "18 July 1993",
 "Status": "Alive",
 "Book Name": "Everyone Has a Story", 
 "Link": "https://oiipdf.com/everyone-has-a-story-novel",
 
- "id": "15",
+ "id": "17",
 "Author": "J.K.Rowling",
 "Born": "31 July 1965",
 "Status": " she has not yet died ",
 "Book Name": "Harry Potter", 
 "Link": "https://www.google.com/search?q=harry+potter+book+author+names+died+in+order&rlz=1C1FHFK_enIN959IN959&sxsrf=AOaemvL-kRLRTu_atQIV6cfJynwB5mByRw%3A1633181911584&ei=12BYYfOCI8jEz7sP2smksA0&oq=harry+potter+book+author+names+died+in+order&gs_lcp=Cgdnd3Mtd2l6EAEYADIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB46BAgjECc6BggAEBYQHjoFCCEQoAE6BwghEAoQoAFKBAhBGAFQ7KkCWIuSA2DGqgNoBXAAeACAAfsBiAHxGpIBBjAuMTIuNpgBAKABAcABAQ&sclient=gws-wiz"
 
-
-"id": "16",
+"id": "18",
 "Author": "vyasa rushi",
 "Born": "couldn't get hold of his birth certficate",
 "Status": "lived around 3000 BCE",
