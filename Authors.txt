@@ -144,10 +144,21 @@ id": "17",
 "Book Name": "Bhagawat geeta", 
 "Link": "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISa7MSDFg9GJNT00tSQQANEgFoQ&q=geeta&rlz=1C1FHFK_enIN959IN959&oq=geeta&aqs=chrome.1.69i57j46i433i512l6j46i131i433i512j0i433i512l2.11716j0j7&sourceid=chrome&ie=UTF-8",
 
+ 
 
- "id": "21",
+"id": "21",
+"Author": "Joseph Murphy ",
+"Born": "20 May 1898",
+"Status": "Died on December 16, 1981",
+"Book Name": "The Power of your Subconscious Mind ", 
+"Link": "https://rgu.ac/rgi_pdf/power-subconscious-mind.pdf",
+
+
+
+ "id": "22",
 "Author": "Vishnu Sakharam Khandekar",
 "Born": "11 January1898,Sangali",
 "Status": "Died 2 september 1976",
 "Book Name": "Yayati", 
 "Link": "https://www.amazon.in/YAYATI-Marathi-V-S-KHANDEKAR-ebook/dp/B01N3XBXAN",
+
