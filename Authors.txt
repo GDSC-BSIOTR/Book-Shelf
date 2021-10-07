@@ -145,16 +145,25 @@ id": "17",
 "Link": "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISa7MSDFg9GJNT00tSQQANEgFoQ&q=geeta&rlz=1C1FHFK_enIN959IN959&oq=geeta&aqs=chrome.1.69i57j46i433i512l6j46i131i433i512j0i433i512l2.11716j0j7&sourceid=chrome&ie=UTF-8",
 
 
- "id": "21",
+"id": "21",
+"Author": "Paulo Coelho",
+"Born": "24 August 1947",
+"Status": "Alive",
+"Book Name": "The Alchemist", 
+"Link": "https://www.goodreads.com/book/show/18144590-the-alchemist",
+
+
+ "id": "22",
 "Author": " Enid Blyton",
 "Born": "11 August 1897",
 "Status": "died on 28 November 1968",
 "Book Name": "Famous Five,",
 "Link": "https://www.amazon.in/Famous-Five-Collection-Books-Collections/dp/1444910582"
 
+
  
 
-"id": "22",
+"id": "23",
 "Author": "rhonda byrne",
 "Born": "12 march 1951",
 "Status": "alive",
@@ -163,7 +172,7 @@ id": "17",
  
 
 
-"id": "23",
+"id": "24",
 "Author": "Joseph Murphy ",
 "Born": "20 May 1898",
 "Status": "Died on December 16, 1981",
@@ -172,7 +181,7 @@ id": "17",
 
 
 
- "id": "24",
+ "id": "25",
 "Author": "Vishnu Sakharam Khandekar",
 "Born": "11 January1898,Sangali",
 "Status": "Died 2 september 1976",
