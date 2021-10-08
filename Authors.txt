@@ -190,3 +190,13 @@ id": "17",
 
 
 
+"id": "26",
+"Author": "Leo Tolstoy",
+"Born": "9 September 1828",
+"Status": "died on 20 November 1910",
+"Book Name": " War and Peace", 
+"Link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+
+
+
+
