@@ -189,4 +189,11 @@ id": "17",
 "Link": "https://www.amazon.in/YAYATI-Marathi-V-S-KHANDEKAR-ebook/dp/B01N3XBXAN",
 
 
+ "id": "26",
+"Author": "Robert Kiyosaki",
+"Born": "08 April 1947",
+"Status": "alive",
+"Book Name": "Rich Dad Poor Dad", 
+"Link" :"https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194"
+
 
