@@ -190,9 +190,20 @@ id": "17",
 
 
 
+"id": "26",
+"Author": "Leo Tolstoy",
+"Born": "9 September 1828",
+"Status": "died on 20 November 1910",
+"Book Name": " War and Peace", 
+"Link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+
+
+
+
  "id": 26",
 "Author": "Stephen Covey ",
 "Born": "24 October 1932",
 "Status": "Died 12 July2012 ",
 "Book Name": "7 Habits of Highly EffectivePeople", 
 "Link": "https://www.amazon.in/dp/B08RJH45MB/ref=cm_sw_r_awdo_navT_g_2K8TG19HQTZ2XGRMWJ17
+
