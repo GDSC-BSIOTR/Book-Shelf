@@ -235,3 +235,11 @@ id": "17",
 "Status": "Alive",
 "Book Name": "Kite Runner", 
 "Link": "https://www.amazon.in/Kite-Runner-Khaled-Hosseini/dp/1408850257,
+
+
+ "id": "32",
+"Author": "Joseph Murphy",
+"Born": "20 May 1898,Ireland",
+"Status": "Died 16 December 1981",
+"Book Name": "Power of your subconscious Mind", 
+"Link": "https://www.google.com/aclk?sa=l&ai=DChcSEwilsNCxxcb6AhW9h0sFHfA3AHQYABABGgJzZg&ae=1&sig=AOD64_30lwh4zLxV17Evie0qAbrktWQIBw&ctype=70&q=&ved=0ahUKEwi1nMqxxcb6AhVXTGwGHSj5BQoQww8IrAw&adurl=https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref%3Dasc_df_8192910962/%3Ftag%3Dgoogleshopmob-21%26linkCode%3Ddf0%26hvadid%3D397009578183%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D3653822520885040116%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dm%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9304071%26hvtargid%3Dpla-318314935106%26psc%3D1%26ext_vrnc%3Dhi,
